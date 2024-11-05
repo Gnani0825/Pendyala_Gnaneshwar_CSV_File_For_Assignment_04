@@ -1,0 +1,6 @@
+document_id,clean_text,sentiment
+1,A super movie with a haunting performance.,positive
+2,The character development was the best I've seen.,positive
+3,A disappointing movie with no character development.,negative
+4,A super  performance with great character.,positive
+5,"It was an average film, not good but not bad.",neutral
